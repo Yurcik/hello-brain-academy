@@ -1,0 +1,12 @@
+#.idea - directory of InteliJ IDEA service file
+
+.idea
+
+#out - directory of binary Java classes files
+
+out
+
+# *.iml - Intelig IDEA module libety file
+
+*.iml
+
